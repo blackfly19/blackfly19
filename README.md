@@ -5,5 +5,5 @@
 - 📫 How to reach me: You can contact me on [Linkedin](https://www.linkedin.com/in/ankit-chawla19).
 - ⚡ Fun fact: Big fan of the show Silicon Valley.
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=blackfly19&show_icons=true&theme=gotham&hide_border=true)](https://github.com/blackfly19)
-
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=blackfly19&show_icons=true&theme=gotham&hide_border=true)](https://github.com/blackfly19)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blackfly19&theme=gotham&hide_border=true)](https://github.com/blackfly19)
